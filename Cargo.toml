@@ -18,6 +18,7 @@ default-features = false
 [dependencies]
 log = "0.3.6"
 env_logger = "0.3.3"
+url = "1.2.0"
 
 serde = "0.7.9"
 serde_json = "0.7.1"
